@@ -1,13 +1,12 @@
 {
-  "name": "alurajs",
+  "name": "testemodulo",
   "version": "1.0.0",
-  "description": "Projeto JS Alura",
+  "description": "Teste",
   "main": "index.js",
   "scripts": {
-    "start": "index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Serbato",
   "license": "ISC",
-  "type" : "module"
+  "type": "module"
 }
